@@ -21,3 +21,5 @@ project/plugins/project/
 ScalaPair.ipr
 ScalaPair.iws
 *.iml
+
+.DS_Store
